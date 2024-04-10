@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="Stats" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MochaLazy&layout=pie&show_icons=true&theme=tokyonight"/>
+<a href="https://github.com/MochaLazy/github-readme-stats#deploy-on-your-own-vercel-instance">
+<img alt="Stats" height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MochaLazy&layout=pie&show_icons=true&theme=tokyonight"/>
+</a>
