@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 </a>
 -->
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 
 # 💻 Tech Stack:
@@ -28,7 +31,7 @@ Here are some ideas to get you started:
 <!--# 📊 GitHub Stats: -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=MochaLazy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=MochaLazy&theme=tokyonight&hide_border=true)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MochaLazy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MochaLazy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MochaLazy&icon=5&color=8)](https://visitcount.itsvg.in)
