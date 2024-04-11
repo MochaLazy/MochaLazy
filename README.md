@@ -1,4 +1,4 @@
-* 🧠  I'm learning Java, C++, php, mysql
+* 🧠  I'm currently learning Java, C++, php, MySQL, python
 
 ### Skills
 
