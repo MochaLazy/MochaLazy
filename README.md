@@ -1,42 +1,8 @@
-## Hi there, MochaLazy here👋
+* 🧠  I'm learning Java, C++, php, mysql
 
-<!--
-**MochaLazy/MochaLazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-<a href="https://github.com/MochaLazy/github-readme-stats">
-<img alt="Stats" height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MochaLazy&layout=pie&show_icons=true&theme=tokyonight"/>
-</a>
--->
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div> -->
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MochaLazy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-</div>
+### Skills
 
 
-### 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-<!--# 📊 GitHub Stats: -->
-<!-- ![](https://github-readme-stats.vercel.app/api?username=MochaLazy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=MochaLazy&theme=tokyonight&hide_border=true)<br/> -->
-
----
-[![](https://visitcount.itsvg.in/api?id=MochaLazy&icon=5&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
